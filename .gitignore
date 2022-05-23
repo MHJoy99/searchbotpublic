@@ -1,0 +1,16 @@
+config.env
+*.pyc
+downloads/*
+download/*
+data*
+.vscode
+.idea
+*.json
+*.pickle
+authorized_chats.txt
+log.txt
+accounts/*
+drive_folder
+env
+venv
+/temp.py
